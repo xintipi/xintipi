@@ -58,3 +58,5 @@ working with my dream and make it bigger.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xintipi&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xintipi&layout=compact&theme=vision-friendly-dark)](https://github.com/xintipi/github-readme-stats)
